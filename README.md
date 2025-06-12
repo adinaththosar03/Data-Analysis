@@ -6,8 +6,6 @@ Here’s a professional and clear `README.md` for your GitHub project based on t
 
 A Power BI dashboard built using real-world sales data to analyze and visualize business performance across different regions, product categories, and time periods.
 
-![Dashboard Preview](b6fb1a97-22be-4648-952f-a13912eb96ec.png)
-
 ---
 
 ## 📁 Dataset Overview
@@ -90,18 +88,4 @@ The dataset used is named `Sales_Data_Dataset.xlsx` and contains structured sale
  ┣ 📄 Sales_Data_Dataset.xlsx
  ┣ 📄 Dashboard_Screenshot.png
  ┗ 📄 README.md
-```
 
----
-
-## 📬 Contact
-
-For queries or collaboration, feel free to connect:
-
-**Name**: \[Your Name]
-**LinkedIn**: \[LinkedIn Profile Link]
-**Email**: \[Your Email Address]
-
----
-
-Would you like me to generate a `.md` file for download or add sections like setup instructions for Power BI or insights in bullet points?
